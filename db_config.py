@@ -6,4 +6,4 @@ def get_connection():
         user="root",
         password="mohan@2005",
         database="studentdb"
-    )
+    );
